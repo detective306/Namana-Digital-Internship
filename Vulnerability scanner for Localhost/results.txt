@@ -1,0 +1,11 @@
+
+         _.-=-._ 
+       o~`  '  `~o
+       \    OWASP  /
+        `..____..-' 
+   Vulnerability Scannner
+
+
+Target: http://localhost:5500
+Results:
+  No vulnerabilities found.
